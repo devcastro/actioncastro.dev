@@ -1,0 +1,34 @@
+.linklist{
+
+    font-size: medium;
+    text-align: center;
+    display: block;
+    list-style: none;
+    position: relative;
+    padding-inline-start: 0px;
+    color: white;
+
+}
+
+ul {
+    width: 75%;
+    margin: auto;
+}
+
+li {
+    
+    border: 1px solid white;
+    padding: 20px;
+    margin-top: 1rem;
+    
+}
+
+.linklist li:hover {
+    background-color: white;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
