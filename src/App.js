@@ -9,13 +9,13 @@ export default function App() {
   return (
     <>
     <div className = 'bg' >
+      
       <UserProfile />
       <LinkList /> 
       <Link />
+
     </div>
     
-    <Link />
-
     </>
   )
 }
